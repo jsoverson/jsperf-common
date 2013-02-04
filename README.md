@@ -1,4 +1,18 @@
 jsperf-common
 =============
 
-List of good jsperf benchmarks for common situations
+List of good jsperf benchmarks for common situations. Contributions to the README and tests expected.
+
+
+## Arrays
+
+### [Simple looping over an array](http://jsperf.com/for-vs-foreach/60)
+
+## Strings
+
+### [Concatenation](http://jsperf.com/array-push-vs-unshift/22)
+
+## Canvas
+
+### [Drawing single pixels](http://jsperf.com/setting-canvas-pixel/10)
+
