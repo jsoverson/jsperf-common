@@ -1,7 +1,7 @@
 jsperf-common
 =============
 
-List of good jsperf benchmarks for common situations. Contributions to the README and tests expected.
+List of good jsperf benchmarks for common situations. Contributions to the README and tests welcome and expected.
 
 
 ## Arrays
