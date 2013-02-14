@@ -11,6 +11,7 @@ List of good jsperf benchmarks for common situations. Contributions to the READM
 ## Strings
 
 ### [Concatenation](http://jsperf.com/array-push-vs-unshift/22)
+### [Reversal](http://jsperf.com/string-reverse-function-performance)
 
 ## Canvas
 
