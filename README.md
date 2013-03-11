@@ -17,3 +17,6 @@ List of good jsperf benchmarks for common situations. Contributions to the READM
 
 ### [Drawing single pixels](http://jsperf.com/setting-canvas-pixel/10)
 
+## Branching
+
+### [If vs &&](http://jsperf.com/if-statement-verses-and-operator)
