@@ -17,6 +17,15 @@ List of good jsperf benchmarks for common situations. Contributions to the READM
 
 ### [Drawing single pixels](http://jsperf.com/setting-canvas-pixel/10)
 
+## Numbers
+
+### [parseInt vs Bitwise vs Math.floor](http://jsperf.com/math-floor-vs-math-round-vs-parseint/18)
+
+## Date/Time
+
+### [Date.now() vs new Date().getTime() vs +new Date()](http://jsperf.com/date-now-vs-new-date-gettime/2)
+
 ## Branching
 
 ### [If vs &&](http://jsperf.com/if-statement-verses-and-operator)
+### [If vs Switch](http://jsperf.com/switch-if-else)
